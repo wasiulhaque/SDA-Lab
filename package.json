@@ -1,0 +1,23 @@
+{
+  "name": "180042110_sda_lab",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000D\u0000A\u0000-\u0000L\u0000a\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasiulhaque/SDA-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasiulhaque/SDA-Lab/issues"
+  },
+  "homepage": "https://github.com/wasiulhaque/SDA-Lab#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
