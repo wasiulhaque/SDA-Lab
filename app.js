@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 
 app.get('/',(req,res) => {
-    res.send("Welcome Heroku")
+    res.send("Welcome to Heroku Deployment.")
 })
 
 app.listen(8000,() => {
